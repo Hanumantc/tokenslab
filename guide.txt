@@ -1,0 +1,4 @@
+# tokenslab
+sending tokens to different slabs (ERC20)
+Automated incrementation of slabs by using Deposit function in the contract
+- Enums used for preventing overflows and unexpected slab additions
